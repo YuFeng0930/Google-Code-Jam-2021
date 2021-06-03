@@ -1,4 +1,4 @@
-# Google-Code-Jam-2021
+# Google Code Jam 2021
 
 - My solutions and code for the Google Code Jam 2021.
 
